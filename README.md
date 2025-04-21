@@ -38,7 +38,7 @@ Certifique-se de que o PostgreSQL está rodando e os bancos `catalogdb` e `recom
 ```sql
 CREATE DATABASE catalogdb;
 CREATE DATABASE recommendationdb;
-
+```
 ![image](https://github.com/user-attachments/assets/36773861-4a2d-4f11-ac5f-2793bee014b9)
 ![image](https://github.com/user-attachments/assets/77791360-547b-4667-8f27-a79f51c841c7)
 
